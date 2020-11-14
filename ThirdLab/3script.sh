@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "5 * * * 5 1script.sh" | crontab
+echo "5 * * * 6 1script.sh" | crontab
