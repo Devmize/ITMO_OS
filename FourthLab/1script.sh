@@ -3,6 +3,19 @@
 file=$1
 num=0
 
+case $file in
+*\ *)
+echo "Enter file without spaces"
+exit 1
+;;
+esac
+
+if [ ! -f $file ];
+then
+	echo "File doesn't exist"
+	exit 1
+fi
+
 if [ $# != 1 ];
 then
 	exit 1

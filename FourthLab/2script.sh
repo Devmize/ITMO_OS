@@ -23,7 +23,7 @@ then
 	exit 1
 fi
 
-if [ -z $(grep $ffile -r ~/.trash) ];
+if [ -z $(ls ~/.trash | grep $ffile) ];
 then
 	exit 1
 fi
@@ -44,10 +44,10 @@ do
 			$(restore $f $t)
 		else
 			$(restore $HOME/$ffile $t) && echo "Restored in $HOME"
-		fi $$
+		fi &&
 		rm ~/.trash/$t && {
 			sed -i "#$fp#d" ~/.trash.log
 			echo "Restored $f"
-		}
+			}
 	fi
 done

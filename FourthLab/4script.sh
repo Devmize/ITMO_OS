@@ -1,17 +1,15 @@
 #!/bin/bash
 
-date=$(ls ~ | grep -e "^Backup-" | sort -n -r | head -1 | sed "s/^Backup-//")
-lb=~/Backup-$date
+last_backup_date=$(ls ~ | grep -e "^Backup-" | sort -n -r | head -1 | sed "s/^Backup-//")
+last_backup=~/Backup-$last_backup_date
 
-if [ ! -z $date ];
-then
-	if [ ! -d ~/restore ];
-	then
+if [ ! -z $last_backup_date ]; then
+	if [ ! -d ~/restore ]; then
 		mkdir ~/restore
 	fi
 
-	for file in $(ls $lb | grep -E -v "[0-9]{4}-[0-9]{2}-[0-9]{2}");
+	for file in $(ls $last_backup | grep -E -v "[0-9]{4}-[0-9]{2}-[0-9]{2}");
 	do
-		cp $lb/$file ~/restore/$file
+		cp $last_backup/$file ~/restore/$file
 	done
 fi
