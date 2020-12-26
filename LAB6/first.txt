@@ -1,0 +1,7 @@
+mkdir LAB6
+cd LAB6
+first.bat
+mkdir TEST
+xcopy /y *.* TEST\*.*
+copy *.*+*.* FullInfo.txt
+del *.bat FreeMemory.txt InfoAboutOSVersion.txt UsedMemory.txt Disk.txt

@@ -1,0 +1,43 @@
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0         24 K
+System                           4 Services                   0        564 K
+smss.exe                       216 Services                   0        804 K
+csrss.exe                      292 Services                   0      3ÿ228 K
+wininit.exe                    328 Services                   0      3ÿ288 K
+csrss.exe                      340 Console                    1      6ÿ568 K
+winlogon.exe                   380 Console                    1      5ÿ272 K
+services.exe                   408 Services                   0      6ÿ392 K
+lsass.exe                      424 Services                   0      7ÿ912 K
+lsm.exe                        432 Services                   0      3ÿ008 K
+svchost.exe                    556 Services                   0      6ÿ576 K
+VBoxService.exe                620 Services                   0      4ÿ448 K
+svchost.exe                    672 Services                   0      5ÿ048 K
+svchost.exe                    724 Services                   0     12ÿ292 K
+svchost.exe                    840 Services                   0      8ÿ764 K
+svchost.exe                    868 Services                   0     11ÿ600 K
+svchost.exe                    904 Services                   0     33ÿ668 K
+svchost.exe                    968 Services                   0      5ÿ200 K
+explorer.exe                  1144 Console                    1     52ÿ824 K
+dwm.exe                       1196 Console                    1      4ÿ652 K
+svchost.exe                   1240 Services                   0     18ÿ420 K
+spoolsv.exe                   1356 Services                   0      8ÿ488 K
+svchost.exe                   1392 Services                   0     10ÿ140 K
+taskhost.exe                  1416 Console                    1      9ÿ560 K
+svchost.exe                   1496 Services                   0      6ÿ736 K
+svchost.exe                   1532 Services                   0      6ÿ676 K
+VBoxTray.exe                  1588 Console                    1      5ÿ608 K
+cygrunsrv.exe                 1724 Services                   0      5ÿ652 K
+wlms.exe                      1856 Services                   0      2ÿ508 K
+conhost.exe                    324 Services                   0      2ÿ476 K
+sshd.exe                       572 Services                   0      5ÿ772 K
+sppsvc.exe                    1308 Services                   0      8ÿ128 K
+svchost.exe                   2052 Services                   0      4ÿ444 K
+SearchIndexer.exe             2156 Services                   0     12ÿ644 K
+svchost.exe                   3020 Services                   0     67ÿ820 K
+wuauclt.exe                   3596 Console                    1      5ÿ184 K
+WmiPrvSE.exe                  3312 Services                   0      5ÿ288 K
+MpCmdRun.exe                  2176 Services                   0      6ÿ948 K
+conhost.exe                   3944 Console                    1      4ÿ420 K
+tasklist.exe                  3528 Console                    1      4ÿ284 K

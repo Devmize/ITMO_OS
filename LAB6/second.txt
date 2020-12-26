@@ -1,0 +1,9 @@
+echo %computername%
+net share temp="C:\IEWIN7\Temp"
+schtasks /Create /SC ONCE /TN Task2 /TR second.bat /ST ..
+schtasks /Query | find "Task2"
+tasklist
+taskkill /IM second.bat
+fc C:\Windows\*.* C:\IEWIN7\Temp\*.* > differenceSecond.txt
+type differenceSecond.txt
+second.bat

@@ -1,0 +1,33 @@
+Comparing files C:\WINDOWS\bfsvc.exe and C:\IEWIN7\TEMP\bfsvc.exe
+Comparing files C:\WINDOWS\bootstat.dat and C:\IEWIN7\TEMP\bootstat.dat
+Comparing files C:\WINDOWS\DtcInstall.log and C:\IEWIN7\TEMP\DtcInstall.log
+Comparing files C:\WINDOWS\Enterprise.xml and C:\IEWIN7\TEMP\Enterprise.xml
+Comparing files C:\WINDOWS\explorer.exe and C:\IEWIN7\TEMP\explorer.exe
+FC: no differences encountered
+
+Comparing files C:\WINDOWS\fveupdate.exe and C:\IEWIN7\TEMP\fveupdate.exe
+Comparing files C:\WINDOWS\HelpPane.exe and C:\IEWIN7\TEMP\HelpPane.exe
+Comparing files C:\WINDOWS\hh.exe and C:\IEWIN7\TEMP\hh.exe
+Comparing files C:\WINDOWS\IE11_main.log and C:\IEWIN7\TEMP\IE11_main.log
+Comparing files C:\WINDOWS\mib.bin and C:\IEWIN7\TEMP\mib.bin
+Comparing files C:\WINDOWS\msdfmap.ini and C:\IEWIN7\TEMP\msdfmap.ini
+Comparing files C:\WINDOWS\notepad.exe and C:\IEWIN7\TEMP\notepad.exe
+Comparing files C:\WINDOWS\PFRO.log and C:\IEWIN7\TEMP\PFRO.log
+Comparing files C:\WINDOWS\regedit.exe and C:\IEWIN7\TEMP\regedit.exe
+Comparing files C:\WINDOWS\setupact.log and C:\IEWIN7\TEMP\setupact.log
+Comparing files C:\WINDOWS\setuperr.log and C:\IEWIN7\TEMP\setuperr.log
+Comparing files C:\WINDOWS\Starter.xml and C:\IEWIN7\TEMP\Starter.xml
+Comparing files C:\WINDOWS\system.ini and C:\IEWIN7\TEMP\system.ini
+Comparing files C:\WINDOWS\TSSysprep.log and C:\IEWIN7\TEMP\TSSysprep.log
+Comparing files C:\WINDOWS\twain.dll and C:\IEWIN7\TEMP\twain.dll
+Comparing files C:\WINDOWS\twain_32.dll and C:\IEWIN7\TEMP\twain_32.dll
+Comparing files C:\WINDOWS\twunk_16.exe and C:\IEWIN7\TEMP\twunk_16.exe
+Comparing files C:\WINDOWS\twunk_32.exe and C:\IEWIN7\TEMP\twunk_32.exe
+Comparing files C:\WINDOWS\win.ini and C:\IEWIN7\TEMP\win.ini
+Comparing files C:\WINDOWS\WindowsShell.Manifest and C:\IEWIN7\TEMP\WindowsShell.Manifest
+Comparing files C:\WINDOWS\WindowsUpdate.log and C:\IEWIN7\TEMP\WindowsUpdate.log
+Comparing files C:\WINDOWS\winhelp.exe and C:\IEWIN7\TEMP\winhelp.exe
+Comparing files C:\WINDOWS\winhlp32.exe and C:\IEWIN7\TEMP\winhlp32.exe
+Comparing files C:\WINDOWS\WMSysPr9.prx and C:\IEWIN7\TEMP\WMSysPr9.prx
+Comparing files C:\WINDOWS\write.exe and C:\IEWIN7\TEMP\write.exe
+Comparing files C:\WINDOWS\_default.pif and C:\IEWIN7\TEMP\_default.pif
